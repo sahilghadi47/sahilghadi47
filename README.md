@@ -3,7 +3,7 @@
 ## About Me
 
 I am a passionate Information Technology graduate with a keen interest in web development and software engineering. Here's a quick rundown of my skills and experiences:
-- 😎 **Intrested In ** : Web-Development , Reading self-help books
+- 😎 **Intrested In** : Web-Development , Reading self-help books
 - 🌐 **Web Development**: Skilled in React.js, JavaScript, HTML/CSS, and TailwindCSS.
 - 📚 **Currently Learning**: Node.js and Express to enhance my backend development skills.
 - 🏅 **Leadership and Discipline**: Former NCC cadet and proud representative of Maharashtra state at the Republic Day Parade in Delhi.
