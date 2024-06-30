@@ -4,6 +4,8 @@
 
 I am a recent Information Technology graduate with a strong foundation in full stack, front-end, and back-end web development. Here's a quick rundown of my skills and experiences:
 
+Skilled in web development. Proficient in creating and maintaining dynamic websites. Former NCC cadet, proud representative of RDC 2023. Alumnus of Mumbai University.
+
 ---
 
 -   😎 _**Interested In**_: Web Development, Reading self-help books, Trekking, kabaddi 
